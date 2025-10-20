@@ -1,2 +1,6 @@
-# my-first-project_01135252079
-My First Github Repository
+# My First Project
+## About
+This is my first GitHub repository created in ICT Lab.
+## Student Info
+- Name: [Your Name] - Program: BSIT
+- Date: October, 2025
